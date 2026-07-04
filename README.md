@@ -2,7 +2,7 @@
 
 A single-page recipe discovery app built with **React, HTML, CSS, and JavaScript**. Search any dish, browse by Veg / Non-Veg / Desserts, and get real-time ingredients, step-by-step instructions, and a cooking video — all in one clean, responsive interface.
 
-Live in one file: `food-app.html`. No build step, no install — just open it in a browser.
+Live in : https://mise-food-c8hgpviod-manjula1.vercel.app/
 
 ## Features
 
